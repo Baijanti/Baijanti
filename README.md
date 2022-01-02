@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello, i am Baijanti
 
 - 🔭 I’m currently working on personal portfolio
 - 🌱 I’m currently learning web development
